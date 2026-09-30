@@ -95,7 +95,7 @@ def create_theme04_presentation(filename="Samsung_PRISM_Theme04_Streaming_Live_R
         ("Theme ID:", "Theme 04 (Streaming Live RAG)"),
         ("Team Name:", "Code_Blooded"),
         ("College Name:", "SRM Institute of Science and Technology (SRM)"),
-        ("Team Members:", "Nikunj Purohit (Lead) | Nishchay Bansal | Gamya Somani"),
+        ("Team Members:", "Nikunj Purohit (Lead) | Nishchay Bansal | Priyanshu Swami"),
         ("Submission GitHub Link:", "https://github.com/06nikunj/samsung-prism-theme04-rag"),
         ("Release Tag:", "PRISM_GENAI_HACKATHON_Y2026")
     ]

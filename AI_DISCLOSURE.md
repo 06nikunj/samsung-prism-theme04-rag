@@ -4,7 +4,7 @@
 **Theme ID:** Theme 04 (Streaming Live RAG)  
 **Team Name:** Code_Blooded  
 **College Name:** SRM Institute of Science and Technology (SRM)  
-**Team Members:** Nikunj Purohit (Lead), Nishchay Bansal, Gamya Somani  
+**Team Members:** Nikunj Purohit (Lead), Nishchay Bansal, Priyanshu Swami  
 **Submission Tag:** `PRISM_GENAI_HACKATHON_Y2026`  
 
 ---
